@@ -21,3 +21,7 @@
 18. Name the server whatever you want.
 19. Under the server address paste the address given to you.
 20. Click `Done` and you should see your server now.
+
+## Server Pack for AWS 
+
+[link here](https://www.curseforge.com/api/v1/mods/452013/files/4509687/download)
